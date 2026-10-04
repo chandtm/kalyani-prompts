@@ -60,3 +60,11 @@ drafting, ElevenLabs for narration and monologue, VN for the edit, Claude Code
 for the pipeline and the record keeping.
 
 Every creative decision was a human one.
+
+## Licence
+
+MIT. Take them, use them, change them. Attribution is appreciated and not
+required.
+
+The licence covers the prompts and the notes in this repository. The film is a
+separate work and is not licensed here.
